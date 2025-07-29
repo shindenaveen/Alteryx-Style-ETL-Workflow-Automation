@@ -1,6 +1,0 @@
-employee_id,name,department,salary,joining_date,status
-1,Alice,Sales,65000,2019-02-10,Active
-2,Bob,,70000,2018-07-15,Active
-3,Charlie,IT,80000,2020-01-25,Active
-4,,Finance,61000,2017-03-20,Resigned
-5,Emma,HR,,2021-11-05,Active
